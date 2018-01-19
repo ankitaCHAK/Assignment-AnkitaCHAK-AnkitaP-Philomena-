@@ -1,7 +1,7 @@
 # Assignment-AnkitaCHAK-AnkitaP-Philomena-
 Assignment Sem-7 WiSTA B2
 
-####################################### ANKITA PADHY ###################################################################
+####################################### ANKITA PADHY (293437) ###################################################################
 
 Software Project Management :
 --------------------------------
@@ -58,6 +58,50 @@ Decide its verification and control
 Divide the project into various smaller parts for ease of management.
 Verify the scope
 Control the scope by incorporating changes to the scope
+
+
+############################### PHILOMENA DSOUZA (293646) #########################################
+
+
+Project Scheduling
+-------------------
+
+Project Scheduling in a project refers to roadmap of all activities to be done with specified order and within time slot allotted to each activity. Project managers tend to define various tasks, and project milestones and them arrange them keeping various factors in mind. They look for tasks lie in critical path in the schedule, which are necessary to complete in specific manner (because of task interdependency) and strictly within the time allocated. Arrangement of tasks which lies out of critical path are less likely to impact over all schedule of the project.
+
+For scheduling a project, it is necessary to -
+----------------------------------------------
+
+Break down the project tasks into smaller, manageable form
+Find out various tasks and correlate them
+Estimate time frame required for each task
+Divide time into work-units
+Assign adequate number of work-units for each task
+Calculate total time required for the project from start to finish
+
+Resource management
+---------------------
+All elements used to develop a software product may be assumed as resource for that project. This may include human resource, productive tools and software libraries.
+
+Resource management includes -
+------------------------------
+
+Defining proper organization project by creating a project team and allocating responsibilities to each team member
+
+Determining resources required at a particular stage and their availability
+
+Manage Resources by generating resource request when they are required and de-allocating them when they are no more needed.
+
+Risk Management Process
+------------------------
+There are following activities involved in risk management process:
+
+Identification- Make note of all possible risks, which may occur in the project.
+
+Categorize - Categorize known risks into high, medium and low risk intensity as per their possible impact on the project.
+
+Manage - Analyze the probability of occurrence of risks at various phases. Make plan to avoid or face risks. Attempt to minimize their side-effects.
+
+Monitor - Closely monitor the potential risks and their early symptoms. Also monitor the effects of steps taken to mitigate or avoid them.
 
 
 
